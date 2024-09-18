@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1705886700 source:d:\proiecte_c\proiect\proiectsda\main.cpp
+	<iostream>
+	<cstdlib>
+	"BSTree.h"
+	"IODialogue.h"
+	"RBTree.h"
+	"BTree.h"
+
+1705919175 d:\proiecte_c\proiect\proiectsda\bstree.h
+	<string>
+	<iostream>
+	<sstream>
+	<cmath>
+	<queue>
+
+1705882853 d:\proiecte_c\proiect\proiectsda\iodialogue.h
+	<iostream>
+	<sstream>
+	<list>
+
+1705931521 d:\proiecte_c\proiect\proiectsda\rbtree.h
+	<string>
+	<iostream>
+	<sstream>
+	<cmath>
+	<queue>
+	<windows.h>
+
+1705927172 d:\proiecte_c\proiect\proiectsda\btree.h
+	<iostream>
+	<vector>
+	<queue>
+	<cmath>
+
